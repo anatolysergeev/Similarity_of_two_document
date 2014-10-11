@@ -7,7 +7,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 
-public class Duplicate extends Applet implements ActionListener {
+public class DuplicateGUI extends Applet implements ActionListener {
     Button[] bList = new Button[3];
     Label find;
 
